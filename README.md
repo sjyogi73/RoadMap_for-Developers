@@ -1,9 +1,7 @@
-# RoadMap_for-Developers
-
- 
-Roadmap for becoming a Back-End Developer 
+# Roadmap for becoming a Full-Stack Developer 
 
  # Learn the basics of the Internet
+ 
       1. How does the internet work?
       2. What are HTTP & HTTPS?
       3. What is a Domain Name?
@@ -13,18 +11,21 @@ Roadmap for becoming a Back-End Developer
       7. What is SMTP?
       
       
-    
-Basics of front-end languages
-1. HTML
-2. CSS
-3. JavaScript
-Learn a back-end language
-1. PHP
-2. NodeJS
-3. Ruby On Rails
-4. Python
-5. Go
-5. C#
+ # Basics of front-end languages
+
+      1. HTML
+      2. CSS
+      3. JavaScript
+
+ # Learn a back-end language
+
+
+      1. PHP
+      2. NodeJS
+      3. Ruby On Rails
+      4. Python
+      5. C#
+
 Just learn any of the above languages but ensure you have an in-depth understanding of that language.
 I will recommend NodeJs or PHP.
 Learn Version Control System
