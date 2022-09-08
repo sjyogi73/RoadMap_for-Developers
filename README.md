@@ -3,7 +3,7 @@
  
 Roadmap for becoming a Back-End Developer 
 Learn the basics of the Internet
-      1. How does the internet work?
+                1. How does the internet work?
       2. What are HTTP & HTTPS?
       3. What is a Domain Name?
       4. What is IP Address?
