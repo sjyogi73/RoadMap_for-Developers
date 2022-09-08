@@ -3,13 +3,13 @@
  
 Roadmap for becoming a Back-End Developer 
 Learn the basics of the Internet
-    1. How does the internet work?
-    2. What are HTTP & HTTPS?
-    3. What is a Domain Name?
-    4. What is IP Address?
-    5. DNS and how it works?
-    6. What is hosting?
-    7. What is SMTP?
+      1. How does the internet work?
+      2. What are HTTP & HTTPS?
+      3. What is a Domain Name?
+      4. What is IP Address?
+      5. DNS and how it works?
+      6. What is hosting?
+      7. What is SMTP?
     
 Basics of front-end languages
 1. HTML
